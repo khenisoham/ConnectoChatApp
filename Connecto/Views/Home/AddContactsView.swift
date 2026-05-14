@@ -49,13 +49,13 @@ struct AddContactView: View {
                         
                         HStack
                         {
-                            //  Text("Users")
-                            //  .foregroundColor(.white)
-                            //  .font(.title2.bold())
+                              Text("Users")
+                              .foregroundColor(.white)
+                              .font(.title2.bold())
                             
-                            Text(userName)
-                                .foregroundColor(.white)
-                                .font(.headline)
+//                            Text(userName)
+//                                .foregroundColor(.white)
+//                                .font(.headline)
                             
                         }
                         
