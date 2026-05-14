@@ -1,14 +1,114 @@
-<img width="1206" height="2622" alt="3" src="https://github.com/user-attachments/assets/32a6037b-b763-4675-ac48-78fe92d084b4" />
-<img width="1206" height="2622" alt="2" src="https://github.com/user-attachments/assets/5b5601dd-dc9c-4777-b8c0-c22bbf58a220" />
-<img width="1206" height="2622" alt="1" src="https://github.com/user-attachments/assets/8bf810cc-023c-4da0-ad19-e292775ddc52" />
-<img width="1206" height="2622" alt="14" src="https://github.com/user-attachments/assets/dcfb7ffc-2370-4c30-9d8f-ae02942cfb82" />
-<img width="1206" height="2622" alt="13" src="https://github.com/user-attachments/assets/425a4d95-f3bd-4789-81cd-b83d1ed3ff41" />
-<img width="1206" height="2622" alt="12" src="https://github.com/user-attachments/assets/ed16f4af-4c25-4699-935c-b1a996df4896" />
-<img width="1206" height="2622" alt="11" src="https://github.com/user-attachments/assets/a81cfecf-8093-46f4-aff5-14ea8ff45ce1" />
-<img width="1206" height="2622" alt="10" src="https://github.com/user-attachments/assets/aa168d69-4f2c-424e-a227-155c4029144f" />
-<img width="1206" height="2622" alt="9" src="https://github.com/user-attachments/assets/4885518d-bfc0-41cd-8857-e834a5aa8716" />
-<img width="1206" height="2622" alt="8" src="https://github.com/user-attachments/assets/482d2252-603e-46b6-8f34-107ddfbaaed5" />
-<img width="1206" height="2622" alt="7" src="https://github.com/user-attachments/assets/bc76a896-ee65-47ed-94a7-bd6edb8e9c55" />
-<img width="1206" height="2622" alt="6" src="https://github.com/user-attachments/assets/fd713e77-cffa-4b0b-beb8-8bb5f2d51754" />
-<img width="1206" height="2622" alt="5" src="https://github.com/user-attachments/assets/812f660a-9b1f-4578-bdd7-33d8bfc58d30" />
-<img width="1206" height="2622" alt="4" src="https://github.com/user-attachments/assets/8a16134a-9869-45fd-9f5e-fb5aba3d459c" />
+# Connecto - iOS Chat App
+
+A modern real-time chat application built using **SwiftUI**, **Firebase Authentication**, and **Firebase Realtime Database**.
+
+---
+
+## Features
+
+ - User Authentication (Login / Signup) using Firebase Auth
+ - Real-time Messaging using Firebase Real-time Database
+ - Search Users Functionality
+ - Online / Offline Status
+ - Typing Indicator
+ - Last Message Preview
+ - Message Time Display
+ - Edit Message Feature
+ - Delete Message Feature
+ - Pin Chat Option
+ - User Profile Screen
+ - Edit Profile Page
+ - Profile Image Support
+ - Beautiful Modern SwiftUI Interface
+ - Smooth Navigation & Animations
+ - Real-time Data Updates
+ - Clean Chat UI Design
+ - Dark Theme Styling
+ - Responsive Layout for iPhone
+
+---
+
+## Tech Stack
+
+- SwiftUI
+- Firebase Auth
+- Firebase Real-time Database
+- Xcode
+- iOS Development
+- MVVM Architecture
+
+---
+
+# Screenshots
+
+<p align="center">
+  <img src="images/1.png" width="250"/>
+  <img src="images/2.png" width="250"/>
+  <img src="images/3.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="images/4.png" width="250"/>
+  <img src="images/5.png" width="250"/>
+  <img src="images/6.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="images/7.png" width="250"/>
+  <img src="images/8.png" width="250"/>
+  <img src="images/9.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="images/10.png" width="250"/>
+  <img src="images/11.png" width="250"/>
+  <img src="images/12.png" width="250"/>
+</p>
+<p align="center">
+  <img src="images/13.png" width="250"/>
+  <img src="images/14.png" width="250"/>
+</p>
+
+---
+
+## Firebase Setup
+
+1. Create Firebase Project
+2. Enable Authentication
+3. Enable Email/Password Login
+4. Create Real-time Database
+5. Add `GoogleService-Info.plist`
+6. Install Firebase SDK
+
+---
+
+## Installation
+
+```bash
+git clone https://github.com/khenisoham/Connecto.git
+```
+
+Open in Xcode and run the project.
+
+---
+
+## Folder Structure
+
+```bash
+Connecto
+│
+├── Views
+├── ViewModels
+├── Models
+├── Services
+├── Firebase
+└── Assets
+```
+
+---
+
+## Author
+
+Soham Kheni
+
+GitHub: [khenisoham](https://github.com/khenisoham)
